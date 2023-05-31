@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+display:flex;
+justify-content:center;
+background-image:url(https://tse1.mm.bing.net/th?id=OIP.NbfPECA64xbFnmW58MbWDQHaEo&pid=Api&P=0&h=180) ;
+background-repeate:no-repeat;
+	 background-attachment: fixed;
+  background-size: cover;
+}
+#band{
+	width:400px;
+	height:auto;
+	background-color:whitesmoke;
+	
+}
+li{
+	padding:10px;
+	border-top: 1px solid lightgray;
+}
